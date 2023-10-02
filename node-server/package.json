@@ -1,0 +1,34 @@
+{
+  "name": "angular-socket",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Shubham Jain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebSocket",
+    "Node.js",
+    "Angular",
+    "Real-time",
+    "Web development",
+    "Chat application",
+    "Full-duplex communication",
+    "Real-time updates",
+    "Client-server communication",
+    "JavaScript",
+    "Websockets in Node.js",
+    "Angular WebSocket integration",
+    "Real-time messaging",
+    "WebSockets tutorial",
+    "Socket.IO"
+],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "web3": "^4.1.2"
+  }
+}

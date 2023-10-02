@@ -1,0 +1,11 @@
+<div>
+    <h2>Chat</h2>
+    <div>
+      <input [(ngModel)]="message" placeholder="Enter a message" />
+      <button (click)="sendMessage()">Send</button>
+    </div>
+    <div>
+      <p>Received Message: {{  receivedMessages | json }}</p>
+    </div>
+</div>
+  
